@@ -18,7 +18,6 @@ export default class A extends Component {
     switch (event.id) {
       case "willAppear":
         console.log(event)
-        console.log(event)
         break
       case "didAppear":
         console.log(event)
