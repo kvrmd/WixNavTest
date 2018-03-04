@@ -33,7 +33,7 @@ export default class A extends Component {
 
   render() {
     const { navigator } = this.props
-    const screens = ["app.A", "app.B", "app.C", "app.D"]
+    const screens = ["app.A", "app.B", "app.C", "app.D", "app.E"]
     return (
       <View>
         <Text h1 style={{ alignSelf: "center" }}>
